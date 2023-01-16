@@ -1,7 +1,5 @@
 version: '3'
-
 services:
-
   todotests:
     image: todotests
     depends_on:
